@@ -24,7 +24,7 @@ contract MetaverseDaoSpecialEdition is Initializable, ERC721Upgradeable, ERC721E
     }
 
     function _baseURI() internal pure override returns (string memory) {
-        return "https://github.com/herometaverse/imga/base.json";
+        return "https://raw.githubusercontent.com/HeroMetaverse/MetaverseDaoNFT/main/nft/contract.json";
     }
 
     function safeMint(address to, string memory uri) public onlyOwner {

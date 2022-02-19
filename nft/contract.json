@@ -1,0 +1,8 @@
+{
+    "name": "MetaverseDAO Project",
+    "description": "The MetaverseDAO Project is a full set of X,Y Coordinates that are stored on chain, representing a 128x128 grid. Use it for maps, tiles, locations, games, or anything else!",
+    "image": "https://raw.githubusercontent.com/HeroMetaverse/MetaverseDaoNFT/main/nft/metaversedaonftspecial.svg",
+    "external_link": "https://twitter.com/herometaverse",
+    "seller_fee_basis_points": 250,
+    "fee_recipient": "0x19BeFd9BD8758EBEC5BE6990E583009F77Ad99d7"
+  }
